@@ -3,6 +3,7 @@ Analysis:
 Project Planning and Scheduling:
 Issue:
 -The project may have been overly ambitious or not accurately scoped, leading to underestimation of the time required for tasks.
+
 Recommendation: 
 -Conduct thorough feasibility studies and involve all stakeholders in the planning phase to ensure realistic timelines and resource allocation.
 
@@ -18,6 +19,7 @@ Recommendation
 Quality Assurance and Testing:
 Issue: 
 -Testing has been delayed, risking the discovery of critical bugs close to the launch date.
+
 Recommendation
 -Integrate testing into the development process from the outset (shift-left testing), automate repetitive tests, and prioritize testing critical functionalities to ensure timely bug detection and resolution.
 
@@ -25,6 +27,7 @@ Recommendation
 Communication and Collaboration:
 Issue:
 -Lack of effective communication among team members and stakeholders may have contributed to misunderstandings and delays.
+
 Recommendation:
 -Foster open communication channels, hold regular progress meetings, and utilize collaboration tools to ensure everyone is aligned on project goals, tasks, and timelines.
 
